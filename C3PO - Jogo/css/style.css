@@ -1,0 +1,22 @@
+
+canvas{
+    display: block;
+    border: solid 1px black;
+    background-color: silver;
+    margin: auto;
+}
+
+body{
+    background-color: #A9A9A9;
+}
+
+.jogador1{
+    text-align: center;
+    color:blue;
+}
+
+.jogador2{
+    text-align: center;
+    color:red;
+}
+
